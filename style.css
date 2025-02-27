@@ -46,7 +46,7 @@ h1 {
 p { 
     font-size: 20px;
     line-height: 48px;
-    opacity: 0.6;
+    opacity: .6;
     margin: 15px 0;
     width: 540px;
 }
@@ -82,7 +82,7 @@ a {
 }
 
 a:nth-child(2){
-    opacity: 0.4;
+    opacity: .4;
 }
 
 a:hover {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 a:active {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 header {
